@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Github](https://github.com/mqdo/advice-generator-app-main)
-- Live Site URL: [Random Advice For You](https://random-advice-for-you.netlify.app/)
+- Live Site URL: [Random Advice For You](https://mqdo-advice.netlify.app)
 
 ## My process
 
